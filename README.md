@@ -68,3 +68,50 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+practice React 2023
+Apr 03, 2023 Start
+Apr 04, 2023 Introduction
+Apr 05, 2023 Before React
+Apr 06, 2023 Our First React Element
+Apr 11, 2023 Events in React
+Apr 12, 2023 Recap
+Apr 13, 2023 JSX
+Apr 17, 2023 JSX part Two
+Apr 18, 2023 Understanding State
+Apr 19, 2023 setState part One
+Apr 20, 2023 setState part Two
+Apr 21, 2023 Recap
+Apr 22, 2023 State Functions
+Apr 25, 2023 Inputs and State
+Apr 26, State Practice part One
+Apr 27, State Practice part Two
+Apr 28, Recap
+May 01, Final Practice and Recap
+May 02, Props
+May 03, Memo
+May 06, Prop Types
+May 08, Recap
+May 09, Introduction
+May 10, Tour of CRA
+May 11, Introduction
+May 13, useEffect
+May 15, Deps
+May 16, Recap
+May 22, Cleanup
+May 23, To Do List part One
+May 24, To Do List part Two
+May 25, Coin Tracker
+May 27, Movie App part One
+May 29, Movie App part Two
+May 30, React Router
+May 31, Parameters
+Jun 01, Publishing
+Jun 01, Conclusions
+Jun 05, Styles
+Jun 06, Next Steps
+Jun 07, Introduction
+Jun 08, Requirements
+Jun 08, Theory Requirements
+Jun 09, Why React
+Jun 10, Creating your first React App
