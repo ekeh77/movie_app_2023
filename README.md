@@ -115,3 +115,4 @@ Jun 08, Requirements
 Jun 08, Theory Requirements
 Jun 09, Why React
 Jun 10, Creating your first React App
+Jun 12, Creating a Github Repository
