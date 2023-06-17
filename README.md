@@ -119,3 +119,4 @@ Jun 12, Creating a Github Repository
 Jun 13, How does React work?
 Jun 14, Creating your first React Component
 Jun 15, Reusable Components with JSX + Props
+Jun 17, Dynamic Component Generation
