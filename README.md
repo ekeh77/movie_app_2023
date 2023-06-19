@@ -120,3 +120,4 @@ Jun 13, How does React work?
 Jun 14, Creating your first React Component
 Jun 15, Reusable Components with JSX + Props
 Jun 17, Dynamic Component Generation
+Jun 19, map Recap
