@@ -122,3 +122,4 @@ Jun 15, Reusable Components with JSX + Props
 Jun 17, Dynamic Component Generation
 Jun 19, map Recap
 Jun 20, Protection with PropTypes
+Jun 21, Class Components and State
