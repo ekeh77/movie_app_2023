@@ -127,3 +127,5 @@ Jun 22, All you need to know about State
 Jun 26, Component Life Cycle
 Jun 27, Planning the Movie Component
 July 3, Fetching Movies from API
+July 4, Rendering the Movies
+July 5, Styling the Movies
