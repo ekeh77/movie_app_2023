@@ -130,3 +130,6 @@ July 3, Fetching Movies from API
 July 4, Rendering the Movies
 July 5, Styling the Movies
 July 8, Adding Genres
+July 10, Styles Timelapse
+July 12, Cutting the summary
+July 14, Deploying to Github Pages
