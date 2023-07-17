@@ -133,3 +133,4 @@ July 8, Adding Genres
 July 10, Styles Timelapse
 July 12, Cutting the summary
 July 14, Deploying to Github Pages
+July 17, Are we done?
