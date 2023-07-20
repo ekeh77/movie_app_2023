@@ -135,3 +135,5 @@ July 12, Cutting the summary
 July 14, Deploying to Github Pages
 July 17, Are we done?
 July 18, Getting Ready for the Router?
+July 19, Building the Router
+July 20, Building the Navigation
